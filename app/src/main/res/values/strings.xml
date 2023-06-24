@@ -4,4 +4,8 @@
     <string name="imagen2">imagen2</string>
     <string name="imagen3">imagen3</string>
     <string name="imagen4">imagen4</string>
+    <string name="volver">VOLVER</string>
+    <string name="todo">TODO</string>
+    <string name="imagenmostrar">imagenMostrar</string>
+    <string name="salir">SALIR</string>
 </resources>
